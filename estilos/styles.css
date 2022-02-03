@@ -28,7 +28,7 @@
 }
 
 body{
-    background-image: url(/Fondos/fondos-negros-gratistodo.com-20.jpg);
+    background-image: url(../Fondos/fondos-negros-gratistodo.com-20.jpg);
 }
 
 .nav-item{
@@ -81,7 +81,7 @@ h3{
 }
 
 section{
-    background-image: url(/Fondos/fondos-negros-gratistodo.com-19.jpg);
+    background-image: url(../Fondos/fondos-negros-gratistodo.com-19.jpg);
     margin-top: 5%;
 
 }
