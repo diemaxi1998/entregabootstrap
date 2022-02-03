@@ -38,7 +38,7 @@ body{
 h2{
     color: rgb(236, 236, 235);
     margin-top: 2%;
-    width: 20%;
+    width: 50%;
     margin-left: 8%;
     font-family: 'Supermercado One', cursive;
     margin-bottom: 2%;
@@ -116,4 +116,11 @@ a{
     .significados{
         margin-left: 20%;
     }
+}
+
+@media (mix-width: 481px) and (max-width: 1023px ){
+    .container{
+        margin-left: 10%;
+    }
+        
 }
